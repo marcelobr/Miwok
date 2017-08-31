@@ -1,3 +1,3 @@
 # Miwok
 
-Projeto Quiz do nanodegree Android Basics da Udacity
+Projeto Miwok do nanodegree Android Basics da Udacity
