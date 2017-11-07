@@ -113,6 +113,8 @@ public class NumbersActivity extends AppCompatActivity {
                 }
             }
         });
+
+        //getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
